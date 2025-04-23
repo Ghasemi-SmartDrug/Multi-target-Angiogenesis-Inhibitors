@@ -10,7 +10,19 @@ This repository contains the source code, datasets, and trained models used for 
 - Facilitate reproducibility by sharing data and code.
 
 ## 📁 Repository Structure
-Multi-target-Angiogenesis-Inhibitors/ │ ├── Database/ │ └── Classification/ │ ├── VEGFR2.csv │ ├── FGFR2.csv │ └── EGFR.csv │ ├── Deep_Model/ │ ├── VEGFR2_model.h5 │ ├── FGFR2_model.h5 │ └── EGFR_model.h5 │ ├── Prediction.ipynb # Notebook for testing prediction on new compounds ├── requirements.txt # Python dependencies └── README.md
+Multi-target-Angiogenesis-Inhibitors
+│ ├── Database
+  │ └── Classification
+  │ ├── VEGFR2.csv
+  │ ├── FGFR2.csv 
+  │ └── EGFR.csv 
+│ ├── Deep_Model
+  │ ├── VEGFR2_model.h5 
+  │ ├── FGFR2_model.h5 
+  │ └── EGFR_model.h5 
+│ ├── Prediction.ipynb # Notebook for prediction on new compounds 
+├── requirements.txt # Python dependencies 
+└── README.md
 
 
 ## 📦 Requirements
