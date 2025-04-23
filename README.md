@@ -49,7 +49,7 @@ Open Prediction.ipynb to predict potential new compounds.
 
 ## Data Availability
 
-The datasets used in this study are available in the `Database/Classification/` directory. Each CSV file corresponds to a specific target (VEGFR2, FGFR2, EGFR) and bioassay data to regression model for training and evaluation.
+The datasets used in this study are available in the `Database/` directory. Each CSV file corresponds to a specific target (VEGFR2, FGFR2, EGFR) and bioassay data to regression model for training and evaluation.
 
 ## Usage
 
