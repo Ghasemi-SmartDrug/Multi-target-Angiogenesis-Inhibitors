@@ -33,6 +33,4 @@ RDKit (for chemical descriptors)
 git lfs install
 git clone https://github.com/Ghasemi-SmartDrug/Multi-target-Angiogenesis-Inhibitors.git
 
-Open Prediction.ipynb to test the trained models on new compounds.
-
-Use the classification CSV files as input to retrain or test models.
+Open Prediction.ipynb to predict potential new compounds.
