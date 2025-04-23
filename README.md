@@ -46,3 +46,14 @@ git lfs install
 git clone https://github.com/Ghasemi-SmartDrug/Multi-target-Angiogenesis-Inhibitors.git
 
 Open Prediction.ipynb to predict potential new compounds.
+
+## Data Availability
+
+The datasets used in this study are available in the `Database/Classification/` directory. Each CSV file corresponds to a specific target (VEGFR2, FGFR2, EGFR) and bioassay data to regression model for training and evaluation.
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ghasemi-SmartDrug/Multi-target-Angiogenesis-Inhibitors.git
+
