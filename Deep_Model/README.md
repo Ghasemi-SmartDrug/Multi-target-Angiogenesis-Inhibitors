@@ -1,6 +1,6 @@
 ## Model Files
 
-The `.h5` files in this directory are trained deep autoencoder models for angiogenesis receptor inhibition prediction, using the hyperparameters reported in our publication.
+The `.h5` files in this directory are trained deep autoencoder models for angiogenesis receptor inhibition prediction, using the hyperparameters reported in our Article.
 
 ### Files:
 - `VEGFR2_model.h5` – Model trained for VEGFR2 inhibition
