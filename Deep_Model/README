@@ -1,2 +1,4 @@
-The .h5 files are trained deep autoencoder models using the hyperparameters reported in the article, which can be used with the Prediction.ipynb notebook to identify
-new compounds with potential dual inhibition of angiogenesis receptors.
+## Model Files
+
+The `.h5` files are trained deep autoencoder models using the hyperparameters reported in the article.  
+They can be used with the `Prediction.ipynb` notebook to identify new compounds with potential dual inhibition of angiogenesis receptors.
